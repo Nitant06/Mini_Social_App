@@ -14,3 +14,7 @@ Concepts used in building this applications are
 
 -> Use of FirestoreRecyclerview
 
+
+
+
+![](SocialApp.gif)

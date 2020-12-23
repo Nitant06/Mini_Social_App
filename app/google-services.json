@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201710159280",
+    "project_id": "social-app-e416e",
+    "storage_bucket": "social-app-e416e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201710159280:android:479589ef35f376fca20275",
+        "android_client_info": {
+          "package_name": "com.nitant.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201710159280-d5t05ki680t0ta39earlh2ootmgm6ife.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeHxHpntOT3G-NYt9NtwN1LEn9k9H_Y4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201710159280-d5t05ki680t0ta39earlh2ootmgm6ife.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
